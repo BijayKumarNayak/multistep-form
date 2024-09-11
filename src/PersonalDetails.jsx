@@ -19,7 +19,7 @@ const PersonalDetails = ({ next, data }) => {
     <div className="grid w-full h-full grid-cols-2">
       <div className="overflow-hidden ">
         <img
-          src="../public/images/personal-detail.jpg"
+          src="/images/personal-detail.jpg"
           alt=""
           className="object-contain object-cover w-full h-full"
         />
