@@ -19,7 +19,7 @@ const PaymentDetails = ({ next, prev, data }) => {
     <div className="grid w-full h-full grid-cols-2">
       <div className="overflow-hidden ">
         <img
-          src="/images/location.jpg"
+          src="/images/payment.jpg"
           alt=""
           className="object-cover w-full h-full "
         />
